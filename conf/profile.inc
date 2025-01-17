@@ -3,7 +3,7 @@ OVERRIDES .= ":rdktv"
 
 DISTRO_FEATURES:append = " RDKE_PLATFORM_TV "
 
-THUNDER_STARTUP_SERVICES:append = " wpeframework-controlsettings.service wpeframework-firebolt.service wpeframework-hdmicecsink.service wpeframework-hdmiinput.service wpeframework-avoutput.service"
+THUNDER_STARTUP_SERVICES:append = " wpeframework-firebolt.service wpeframework-hdmicecsink.service wpeframework-avoutput.service"
 
 # XIONE-14404 Amlogic devices need dynamic_svp_decryption enabled until this
 # can be moved to the vendor layer.
