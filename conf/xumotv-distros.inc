@@ -25,3 +25,4 @@ DISTRO_FEATURES:append = ' enable_compositein_support'
 DISTRO_FEATURES:append = ' enable_spdif_support'
 DISTRO_FEATURES:append = ' enable_headphone_support'
 DISTRO_FEATURES:append = " btr_enable_auto_connect"
+DISTRO_FEATURES:append = " bt_adapter_name_xumo"
