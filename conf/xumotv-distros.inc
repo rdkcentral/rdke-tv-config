@@ -25,3 +25,6 @@ DISTRO_FEATURES:append = ' enable_spdif_support'
 DISTRO_FEATURES:append = ' enable_headphone_support'
 DISTRO_FEATURES:append = " btr_enable_auto_connect"
 DISTRO_FEATURES:append = " bt_adapter_name_xumo"
+DISTRO_FEATURES:remove:sky-llama-panel = ' enable_compositein_support'
+DISTRO_FEATURES:remove:sky-llama-panel = ' enable_spdif_support'
+DISTRO_FEATURES:remove:sky-llama-panel = ' enable_headphone_support'
