@@ -1,10 +1,10 @@
 
 DISTRO_FEATURES:append = ' airplay'
 DISTRO_FEATURES:append = ' alsa'
+DISTRO_FEATURES:append = ' aamp_amlogic'
 DISTRO_FEATURES:append = ' build_rfc_enabled'
 DISTRO_FEATURES:append = ' cobalt_enable_evergreen_lite'
 DISTRO_FEATURES:append = ' comcast_qt5'
-DISTRO_FEATURES:append = ' ctrlm_irdb_uei'
 DISTRO_FEATURES:append = ' disable-upnp'
 DISTRO_FEATURES:append = ' early_message_processing'
 DISTRO_FEATURES:append = ' enable_wpe-webdriver'
@@ -21,8 +21,5 @@ DISTRO_FEATURES:append = ' tr69agent'
 DISTRO_FEATURES:append = ' widevine_hardware'
 DISTRO_FEATURES:append = ' xcal_device'
 DISTRO_FEATURES:append = ' enable_hdmiin_support'
-DISTRO_FEATURES:append = ' enable_compositein_support'
-DISTRO_FEATURES:append = ' enable_spdif_support'
-DISTRO_FEATURES:append = ' enable_headphone_support'
 DISTRO_FEATURES:append = " btr_enable_auto_connect"
 DISTRO_FEATURES:append = " bt_adapter_name_xumo"
