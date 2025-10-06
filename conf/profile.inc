@@ -30,8 +30,5 @@ AUTH_ACTIVATION_STATUS:platco = "true"
 #Dobby device specific settings
 DOBBY_DEVICESETTINGS_FILE = "dobby.llama.json"
 
-# Netflix specific configs 
-NETFLIX_MEDIA_CACHE_CAPACITY = "238MB"
-NETFLIX_MINAUDIOPTSGAP = "35"
 LINUXLIBCVERSION = "4.9%"
 
