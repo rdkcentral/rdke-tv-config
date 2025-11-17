@@ -23,3 +23,4 @@ DISTRO_FEATURES:append = ' xcal_device'
 DISTRO_FEATURES:append = ' enable_hdmiin_support'
 DISTRO_FEATURES:append = " btr_enable_auto_connect"
 DISTRO_FEATURES:append = " bt_adapter_name_xumo"
+DISTRO_FEATURES:append = " cobalt-25 "
