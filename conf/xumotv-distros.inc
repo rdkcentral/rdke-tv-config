@@ -1,6 +1,7 @@
 
 DISTRO_FEATURES:append = ' airplay'
 DISTRO_FEATURES:append = ' alsa'
+DISTRO_FEATURES:append = ' aamp_amlogic'
 DISTRO_FEATURES:append = ' build_rfc_enabled'
 DISTRO_FEATURES:append = ' cobalt_enable_evergreen_lite'
 DISTRO_FEATURES:append = ' comcast_qt5'
